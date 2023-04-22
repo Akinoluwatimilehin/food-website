@@ -1,0 +1,114 @@
+.row {
+    margin-left: 3px;
+}
+
+.quench-button {
+    text-shadow: none !important; 
+    border: none !important; 
+    margin-top: 12% !important;
+    height: 74px;
+    width: 190px;
+    border-radius: 48px;
+    background-color: #75C00E;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.col-sm-4 {
+    color: black;
+    font-size: 20px;
+    margin-top: 15px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.col-sm-8 {
+    word-spacing: 80px;
+    margin-top: 15px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.circle {
+    height: 1000px;
+    width: 1050px;
+    border-radius: 500px;
+    background-color: #DFF7BE;
+    float: right;
+    margin-top: -450px;
+    margin-left: 4%;
+    margin-right: -102px;
+}
+
+.text {
+    margin-top: -40%;
+    font-size: 60px;
+    color: #75C00E;
+    font-family: 'Poppins', sans-serif;
+} 
+
+.quench {
+    font-size: 33px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.chicken {
+    height: 300px;
+    width: 300px;
+    float: right;
+    margin-left: 20%;
+    margin-right: -657px;
+    margin-top: -169px;
+}
+
+.round {
+    float: right;
+    margin-right: -767px;
+    margin-top: -373px;
+    height: 300px;
+}
+
+.one {
+   margin-left: 545px;
+   margin-top: -527px;
+}
+
+.two {
+    margin-left: 614px;
+    margin-top: -885px;
+}
+
+.three {
+    margin-left: 809px;
+    margin-top: -1100px;
+}
+
+.four {
+    margin-left: 988px;
+    margin-top: -1035px;
+    width: 95px;
+}
+
+.five {
+    margin-left: 1065px;
+    margin-top: -771px;
+}
+
+.icon {
+    width: 24px;
+    height: 24px;
+    margin-left: 1170px;
+    margin-top: -1700px;
+}
+
+.group {
+    width: 41px;
+    height: 47px;
+    margin-left: 1125px;
+    margin-top: -395px; 
+}
+
+.ten {
+    width: 41px;
+    height: 47px;
+    margin-left: 353px;
+    margin-top: -678px;
+}
